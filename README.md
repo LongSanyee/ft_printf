@@ -1,1 +1,1 @@
-# ft_printf
+a mini printf function
